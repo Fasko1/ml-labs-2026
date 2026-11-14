@@ -1,0 +1,14 @@
+{
+  "date": "2026-11-14",
+  "source": "lab1_knn (1).ipynb",
+  "sha256": "350334cda0d21d6ad4e3294b0cc6c38ca8479ab355e15a6d0f991e6fc971a39a",
+  "verified_code_cells": 15,
+  "saved_errors": 0,
+  "compared_tables_without_timing": 16,
+  "numeric_comparison_precision": "as displayed in saved HTML tables",
+  "images": 3,
+  "identical_image_payloads": 3,
+  "source_changes": 0,
+  "provenance": "User-provided notebook after requested fresh Colab runtime run; not a local ML re-execution.",
+  "artifact_csv_provenance": "work/results contains full-precision CSVs from the first exported archive; rerun timings differ."
+}

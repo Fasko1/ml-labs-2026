@@ -1,0 +1,5 @@
+model,tn,fp,fn,tp
+sklearn baseline,258,35,69,82
+sklearn improved,257,36,68,83
+own baseline,256,37,69,82
+own improved,255,38,68,83
